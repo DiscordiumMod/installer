@@ -1,6 +1,6 @@
 {
   "name": "@discordiummod/installer",
-  "version": "0.0.1-devel.0",
+  "version": "0.1.0",
   "description": "The installer for the Discordium mod.",
   "main": "cli.js",
   "scripts": {
