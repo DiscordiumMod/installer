@@ -1,0 +1,29 @@
+{
+  "name": "@discordiummod/installer",
+  "version": "0.0.1-devel.0",
+  "description": "The installer for the Discordium mod.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordiumMod/installer.git"
+  },
+  "keywords": [
+    "discordium",
+    "discord",
+    "mod"
+  ],
+  "author": "Rauf#3543 (rauf@rauf.wtf)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DiscordiumMod/installer/issues"
+  },
+  "homepage": "https://github.com/DiscordiumMod/installer#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ora": "^5.2.0",
+    "yargs": "^16.2.0"
+  }
+}
