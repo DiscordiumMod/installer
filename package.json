@@ -2,7 +2,7 @@
   "name": "@discordiummod/installer",
   "version": "0.0.1-devel.0",
   "description": "The installer for the Discordium mod.",
-  "main": "index.js",
+  "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
