@@ -1,8 +1,8 @@
-[![GitHub issues](https://img.shields.io/github/issues/DiscordiumMod/Discordium?style=for-the-badge)](https://github.com/DiscordiumMod/Discordium/issues)
-[![GitHub forks](https://img.shields.io/github/forks/DiscordiumMod/Discordium?style=for-the-badge)](https://github.com/DiscordiumMod/Discordium/network)
-[![GitHub stars](https://img.shields.io/github/stars/DiscordiumMod/Discordium?style=for-the-badge)](https://github.com/DiscordiumMod/Discordium/stargazers)
-[![GitHub license](https://img.shields.io/github/license/DiscordiumMod/Discordium?style=for-the-badge)](https://github.com/DiscordiumMod/Discordium/blob/main/LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/DiscordiumMod/Discordium?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/DiscordiumMod/installer?style=for-the-badge)](https://github.com/DiscordiumMod/installer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/DiscordiumMod/installer?style=for-the-badge)](https://github.com/DiscordiumMod/installer/network)
+[![GitHub stars](https://img.shields.io/github/stars/DiscordiumMod/installer?style=for-the-badge)](https://github.com/DiscordiumMod/installer/stargazers)
+[![GitHub license](https://img.shields.io/github/license/DiscordiumMod/installer?style=for-the-badge)](https://github.com/DiscordiumMod/installer/blob/main/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/DiscordiumMod/installer?style=for-the-badge)
 
 ---
 
